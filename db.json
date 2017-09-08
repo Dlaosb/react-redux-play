@@ -7,18 +7,8 @@
     },
     {
       "name": "React",
-      "isComplete": true,
-      "id": 4
-    },
-    {
-      "name": "Router",
-      "isComplete": true,
-      "id": 5
-    },
-    {
-      "name": "Front-End",
       "isComplete": false,
-      "id": 6
+      "id": 4
     }
   ]
 }
