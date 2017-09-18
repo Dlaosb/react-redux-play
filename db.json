@@ -1,8 +1,14 @@
 {
   "todos": [
-    {"id": 1, "name": "Create Static UI", "isComplete": true},
-    {"id": 2, "name": "Create Initial State", "isComplete": true},
-    {"id": 3, "name": "Use state to render UI", "isComplete": false},
-    {"id": 4, "name": "Added Todo", "isComplete": false}
+    {
+      "name": "Redux",
+      "isComplete": false,
+      "id": 3
+    },
+    {
+      "name": "React",
+      "isComplete": false,
+      "id": 4
+    }
   ]
 }
